@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		CE31D86C297D69FB00591326 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31D86B297D69FB00591326 /* main.swift */; };
+		CE31D873297D6A5B00591326 /* Gadget .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31D872297D6A5B00591326 /* Gadget .swift */; };
+		CE31D875297D6A9F00591326 /* Laptop .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31D874297D6A9F00591326 /* Laptop .swift */; };
+		CE31D877297D6B1F00591326 /* Smartphone .swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31D876297D6B1F00591326 /* Smartphone .swift */; };
+		CE31D879297D6BD400591326 /* RepairService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE31D878297D6BD400591326 /* RepairService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		CE31D868297D69FB00591326 /* 2.HW3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2.HW3; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE31D86B297D69FB00591326 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CE31D872297D6A5B00591326 /* Gadget .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Gadget .swift"; sourceTree = "<group>"; };
+		CE31D874297D6A9F00591326 /* Laptop .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Laptop .swift"; sourceTree = "<group>"; };
+		CE31D876297D6B1F00591326 /* Smartphone .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Smartphone .swift"; sourceTree = "<group>"; };
+		CE31D878297D6BD400591326 /* RepairService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepairService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				CE31D86B297D69FB00591326 /* main.swift */,
+				CE31D872297D6A5B00591326 /* Gadget .swift */,
+				CE31D874297D6A9F00591326 /* Laptop .swift */,
+				CE31D876297D6B1F00591326 /* Smartphone .swift */,
+				CE31D878297D6BD400591326 /* RepairService.swift */,
 			);
 			path = 2.HW3;
 			sourceTree = "<group>";
@@ -120,6 +132,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE31D873297D6A5B00591326 /* Gadget .swift in Sources */,
+				CE31D879297D6BD400591326 /* RepairService.swift in Sources */,
+				CE31D877297D6B1F00591326 /* Smartphone .swift in Sources */,
+				CE31D875297D6A9F00591326 /* Laptop .swift in Sources */,
 				CE31D86C297D69FB00591326 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
